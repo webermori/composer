@@ -1,0 +1,23 @@
+{
+  "name": "webermori-son/start-composer";
+  "description": "Package tests",
+  "require": {
+    "php": ">=5.4",
+    "silex/silex": "1.3.*@stable"
+  },
+  "type": "library",
+  "version": "1.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Weber Mori",
+      "email": "webermori@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Weber\\SON\\" : "src/Weber/SON"
+    }
+  }
+}
