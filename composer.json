@@ -1,5 +1,5 @@
 {
-  "name": "webermori-son/start-composer";
+  "name": "webermori-son/start-composer",
   "description": "Package tests",
   "require": {
     "php": ">=5.4",
