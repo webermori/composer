@@ -1,2 +1,5 @@
 .idea/
 vendor/
+bin/
+tests/_reports
+composer.lock

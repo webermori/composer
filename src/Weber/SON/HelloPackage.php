@@ -4,7 +4,7 @@ namespace Weber\SON;
 
 class HelloPackage
 {
-    public function getHelo()
+    public function getHello()
     {
         return "Hello Package!";
     }
